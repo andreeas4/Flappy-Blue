@@ -15,8 +15,8 @@ Control a blue bird and try to fly through pipes without crashing!
 - Game ends when the bird hits a pipe
 - The current score is shown in the corner
 
-![Gameplay](screenshots/gameplay.png)
-![Game Over](screenshots/gameover.png)
+![Gameplay](Screenshots/Gameplay.png)
+![Game Over](Screenshots/Gameover.png)
 
 ---
 
